@@ -10,3 +10,6 @@ Cat file
 pwd this dir to v10
 
 adding 1 more line for another testing.
+
+I am learning Git step by step.
+
